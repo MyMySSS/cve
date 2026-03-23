@@ -1,4 +1,3 @@
-# cve
 # Easy Blog Site has sql injection in the login.php file
 
 ## supplier

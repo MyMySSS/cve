@@ -26,4 +26,4 @@ This code queries whether the current account exists from the database, and the 
 
 ![image-20260323201209277](cve/image-20260323201209277.png)
 
-登录其他账户
+Log in to other accounts
